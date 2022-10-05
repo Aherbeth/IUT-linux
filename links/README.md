@@ -3,6 +3,8 @@
 ## Linux
 
 - [Généralités](https://en.wikipedia.org/wiki/Linux)
+- [Architecture Linux](https://www.javatpoint.com/architecture-of-linux)
+- [Familles Linux](https://upload.wikimedia.org/wikipedia/commons/9/96/Liste_des_distributions_Linux.svg)
 
 ## Open source
 
